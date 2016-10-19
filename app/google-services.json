@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296541694568",
+    "firebase_url": "https://mrefugee-e8509.firebaseio.com",
+    "project_id": "mrefugee-e8509",
+    "storage_bucket": "mrefugee-e8509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296541694568:android:8d9389b56e7ac5b3",
+        "android_client_info": {
+          "package_name": "com.dadaabs.mrefugee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296541694568-go5artd1ct93vkdkba2ckcv8demit5h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dadaabs.mrefugee",
+            "certificate_hash": "C54A51C5D25767FA1F8535FCFF1A34D3D12850EA"
+          }
+        },
+        {
+          "client_id": "296541694568-fji0e6h4qhs12b88c414tsng4pijq9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2nnb-KjqffpoQA5N8dKRnvZ5TB9CYHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296541694568-fji0e6h4qhs12b88c414tsng4pijq9ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
